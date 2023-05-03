@@ -1,14 +1,14 @@
-### Ola! Eu sou o Marcos André
+### Ola! Eu me chamo João Batista
 
-- 🔭 Pleiteando uma vaga para desenvolvimento backend
-- 🎓 Graduando em Sistemas de Informação (3º Período)
-- 🌱 Estudando Java
-- 📫 Como me contactar: marcosdev2002@gmail.com
+- 🔭 Pleiteando uma vaga para desenvolvimento Web
+- 🎓 Graduando em Ciências da Computação (1º Período)
+- 🌱 Estudando Python
+- 📫 Como me contactar: anderaes@gmail.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Estudo Java mais de 8 horas por dia (It's not funny)
+- ⚡ Fun fact: Estou usando Python para tentar programar um chat-bot para WhatsApp
 
 <div align="center">
-  <a href="https://github.com/devopMarkz">
+  <a href="https://github.com/1ordezera"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devopMarkz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopMarkz&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
